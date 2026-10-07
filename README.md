@@ -1,6 +1,6 @@
 # 👋 Sobre mim
 
-Olá! Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no **IFPA**, em Belém. Estou construindo minha base em programação e tenho interesse em **desenvolvimento web**, **banco de dados** e **análise de sistemas**. Aqui reúno os projetos e atividades da minha formação.
+Olá! Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no **IFPA**, em Pareagominas. Estou construindo minha base em programação e tenho interesse em **desenvolvimento web**, **banco de dados** e **análise de sistemas**. Aqui reúno os projetos e atividades da minha formação.
 
 ## 🛠️ Habilidades e Ferramentas
 
@@ -20,4 +20,5 @@ Olá! Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (T
 ## 📫 Contato
 
 - E-mail: cynthyaferrer12@gmail.com
+- Telefone: 91-98166-7595
 - GitHub: https://github.com/cynthyaferrer12-coder
