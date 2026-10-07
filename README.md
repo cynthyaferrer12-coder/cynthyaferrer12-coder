@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Sobre mim
 
-<!--
-**cynthyaferrer12-coder/cynthyaferrer12-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no **IFPA**, em Belém. Estou construindo minha base em programação e tenho interesse em **desenvolvimento web**, **banco de dados** e **análise de sistemas**. Aqui reúno os projetos e atividades da minha formação.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lógica de Programação**
+- **Git e GitHub** (controle de versão)
+- **Markdown** (documentação)
+- **HTML** (estrutura de páginas web)
+- Aprendendo: CSS, JavaScript e SQL
+
+## 📂 Projetos do Curso
+
+> Seção em construção: ao longo do semestre vou adicionando aqui os links dos repositórios das atividades práticas.
+
+- [ ] Projeto 1: em breve
+- [ ] Projeto 2: em breve
+
+## 📫 Contato
+
+- E-mail: cynthyaferrer12@gmail.com
+- GitHub: https://github.com/cynthyaferrer12-coder
